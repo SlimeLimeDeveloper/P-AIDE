@@ -4,4 +4,5 @@
     <color name="black">#000000</color>
     <color name="toolbar">#31426D</color>
     <color name="statusbar">#273657</color>
+    <color name="run_code">#2FDE35</color>
 </resources>
